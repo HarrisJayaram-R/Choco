@@ -1,0 +1,9 @@
+CHOCOLATES AND CAKES:
+
+*Basically this website was delivery website
+*Our goal is used to deliver the chocolates and cakes all over in india
+*we are introducing a organic chocolate because it is healthier for farmers beacuse the cocoa beans and sugar are grown without any harmful chemicals
+*To put is simply eco friendly is the team adopted to refer to something safe for thr environment
+*Customers can custamize their own Chocolates and Cakes with various type of design
+*Six type of language arre used in own website to interact the users with their own mother tongue
+*To create our webpage we are using a programming language called HTML,CSS,JAVA SCRIPT and soon.......
